@@ -17,3 +17,4 @@ String[] packagesWhiteListed = autostart.defaultWhiteListedPackages();repositori
         includeInBundle = false
     }
 }
+-runauto
